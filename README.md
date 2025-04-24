@@ -28,18 +28,21 @@
 ## 🛠️ Tech Stack
 
 ### 🧱 Blockchain & Web3
-<img src="https://clipground.com/images/eth-logo-clipart-3.jpg" width="40" title="Ethereum"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hyperledger_logo_icon_170992.png" width="80" title="Hyperledger Fabric"/>
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*8fUOSpHYkE4fpWQ3-63brg.png" width="60" title="IPFS"/>
+<p align="left">
+  <img src="https://clipground.com/images/eth-logo-clipart-3.jpg" width="40" title="Ethereum"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hyperledger_logo_icon_170992.png" width="80" title="Hyperledger Fabric"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*8fUOSpHYkE4fpWQ3-63brg.png" width="60" title="IPFS"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-<img src="https://image.pngaaa.com/681/876681-middle.png" width="40" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+<p align="left">
+  <img src="https://image.pngaaa.com/681/876681-middle.png" width="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+</p>
 
----
 
 ## 🚀 Featured Projects
 
