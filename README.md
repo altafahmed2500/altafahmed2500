@@ -31,8 +31,8 @@
 <img src="https://clipground.com/images/eth-logo-clipart-3.jpg" width="40" title="Ethereum"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hyperledger_logo_black.svg" width="80" title="Hyperledger Fabric"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/IPFS_logo.png" width="60" title="IPFS"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hyperledger_logo_icon_170992.png" width="80" title="Hyperledger Fabric"/>
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*8fUOSpHYkE4fpWQ3-63brg.png" width="60" title="IPFS"/>
 
 ### ☁️ Cloud & DevOps
 <img src="https://image.pngaaa.com/681/876681-middle.png" width="40" title="AWS"/>
