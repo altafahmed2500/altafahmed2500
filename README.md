@@ -7,32 +7,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🧱 Blockchain & Web3
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" title="Ethereum"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hyperledger_logo_black.svg" width="80" title="Hyperledger Fabric"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/IPFS_logo.png" width="60" title="IPFS"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
-
----
-
-## 🚀 Featured Projects
-
-### [🗳️ Digital Ledger Voting System](https://github.com/altafahmed2500)
-A secure remote voting system built on a private blockchain using Solidity and Go. Features identity verification, Layer 2 scalability, and 95% automated smart contract voting.
-
-### [🎨 Digital Asset Management with NFTs](https://github.com/altafahmed2500/BlockAsset)
-Created a full-stack Web3 NFT platform on Ethereum with React, Solidity, and Python. Minted 100+ NFTs with IPFS storage and 99.9% uptime on Azure.
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -48,5 +22,33 @@ Created a full-stack Web3 NFT platform on Ethereum with React, Solidity, and Pyt
 </p>
 
 ---
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧱 Blockchain & Web3
+<img src="https://clipground.com/images/eth-logo-clipart-3.jpg" width="40" title="Ethereum"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hyperledger_logo_black.svg" width="80" title="Hyperledger Fabric"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/IPFS_logo.png" width="60" title="IPFS"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://image.pngaaa.com/681/876681-middle.png" width="40" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+
+---
+
+## 🚀 Featured Projects
+
+### [🗳️ Digital Ledger Voting System](https://github.com/altafahmed2500)
+A secure remote voting system built on a private blockchain using Solidity and Go. Features identity verification, Layer 2 scalability, and 95% automated smart contract voting.
+
+### [🎨 Digital Asset Management with NFTs](https://github.com/altafahmed2500/BlockAsset)
+Created a full-stack Web3 NFT platform on Ethereum with React, Solidity, and Python. Minted 100+ NFTs with IPFS storage and 99.9% uptime on Azure.
+
+
 
 ![Altaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altafahmed2500&show_icons=true&theme=radical)
